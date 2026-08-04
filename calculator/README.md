@@ -1,31 +1,30 @@
-# 🧮 Calculator App Using Python
+# 🧮 Calculator App | Python Project
 
-## 📌 Project Overview
+## 📌 About This Project
 
-This project is a simple **command-line Calculator Application built using Python**. It performs basic arithmetic operations and demonstrates core Python programming concepts such as functions, conditional statements, and user input handling.
+Calculator App is a beginner-friendly Python application designed to perform basic mathematical calculations through a simple command-line interface.
 
-This project was developed as part of my Python learning journey to improve programming logic and problem-solving skills.
-
----
-
-## ✨ Features
-
-✅ Addition (+)
-✅ Subtraction (-)
-✅ Multiplication (*)
-✅ Division (/)
-✅ User input handling
-✅ Simple command-line interface
-✅ Error handling for invalid operations
-✅ Beginner-friendly Python implementation
+This project demonstrates my understanding of Python fundamentals, logical thinking, and building practical programming solutions.
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 Features
 
-* 🐍 Python 3
-* 💻 VS Code
-* 🔧 Git & GitHub
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* 🔢 User input handling
+* ⚠️ Division by zero error handling
+* 🖥️ Interactive console interface
+
+---
+
+## 🛠️ Built With
+
+* Python 3
+* VS Code
+* Git & GitHub
 
 ---
 
@@ -40,54 +39,51 @@ Calculator_App/
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Use
 
-### 1. Clone the repository
+1. Download or clone this repository.
 
-```bash
-git clone https://github.com/tabbassamrabia68-code/Calculator_App.git
-```
+2. Open the project folder.
 
-### 2. Open the project folder
-
-```bash
-cd Calculator_App
-```
-
-### 3. Run the Python file
+3. Run the application:
 
 ```bash
 python Calculator.py
 ```
 
----
-
-## 💡 Concepts Practiced
-
-Through this project, I practiced:
-
-* Python functions
-* Variables and data types
-* Arithmetic operators
-* Conditional statements
-* User input handling
-* Error handling
-* Problem-solving skills
+4. Select an operation and enter numbers to get the result.
 
 ---
 
-## 📸 Project Output
+## 📚 Python Concepts Used
 
-(Add your calculator output screenshot here)
+* Variables
+* Data Types
+* Functions
+* Operators
+* Conditional Statements
+* User Input
+* Error Handling
 
 ---
 
-## 🚀 Future Improvements
+## 🎯 Learning Outcomes
 
-* Add graphical user interface (GUI) using Tkinter
-* Add scientific calculator features
-* Improve user experience
+By building this project, I improved my:
+
+* Python programming skills
+* Problem-solving approach
+* Logical thinking
+* Understanding of real-world application development
+
+---
+
+## 🔮 Future Enhancements
+
+* Add GUI interface using Tkinter
+* Add scientific calculator operations
 * Add calculation history
+* Improve user experience
 
 ---
 
@@ -95,21 +91,6 @@ Through this project, I practiced:
 
 **Rabia Tabbassam**
 
-🎓 BS Mathematics Student
-🐍 Python Developer
-📊 Data Analytics & AI Enthusiast
+Python Developer | BS Mathematics Student | AI & Data Analytics Learner
 
----
-
-## 🔗 Connect With Me
-
-GitHub:
-https://github.com/tabbassamrabia68-code
-
-LinkedIn:
-https://www.linkedin.com/in/rabia-tabbassam/
-
----
-
-⭐ If you find this project useful, feel free to explore and connect!
 
