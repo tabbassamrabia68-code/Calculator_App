@@ -1,128 +1,115 @@
-# 🐍 Python Projects Portfolio
+# 🧮 Calculator App Using Python
 
-Welcome to my **Python Projects Portfolio**! 🚀
+## 📌 Project Overview
 
-This repository showcases my journey of learning and building practical Python projects. Each project focuses on improving my programming skills, problem-solving abilities, and understanding of real-world software development.
+This project is a simple **command-line Calculator Application built using Python**. It performs basic arithmetic operations and demonstrates core Python programming concepts such as functions, conditional statements, and user input handling.
 
----
-
-# 👩‍💻 About Me
-
-Hi, I'm **Rabia Tabbassam**.
-
-🎓 **BS Mathematics Student**
-💻 **Python Developer | Programming Enthusiast**
-📊 **Data Analytics Learner (Python | Excel | Power BI | Maple)**
-📈 **Digital Marketing Enthusiast**
-
-I am passionate about technology and continuously building real-world projects to strengthen my skills in **Python Development, Data Analytics, AI Automation, and Software Solutions**.
-
-My goal is to create impactful projects, contribute to the developer community, and prepare for freelance and international career opportunities.
+This project was developed as part of my Python learning journey to improve programming logic and problem-solving skills.
 
 ---
 
-# 📂 Featured Projects
+## ✨ Features
 
-## 🎮 Number Guessing Game
-
-### 📌 Project Overview
-
-A beginner-friendly Python console game where the computer randomly selects a number between **1 and 100**, and the user attempts to guess the correct number with helpful hints.
-
-### ✨ Features
-
-✅ Random number generation
+✅ Addition (+)
+✅ Subtraction (-)
+✅ Multiplication (*)
+✅ Division (/)
 ✅ User input handling
-✅ "Too High" and "Too Low" hints
-✅ Attempt tracking
-✅ Interactive command-line experience
+✅ Simple command-line interface
+✅ Error handling for invalid operations
+✅ Beginner-friendly Python implementation
 
-### 🛠️ Technologies Used
+---
 
-* Python 3
-* Random Module
-* Conditional Statements
-* Loops
+## 🛠️ Technologies Used
 
-### ▶️ How to Run
+* 🐍 Python 3
+* 💻 VS Code
+* 🔧 Git & GitHub
 
-```bash
-python Number_Guessing_Game/main.py
+---
+
+## 📂 Project Structure
+
+```text
+Calculator_App/
+│
+├── Calculator.py
+└── README.md
 ```
 
 ---
 
-# 📚 Technical Skills Demonstrated
+## ▶️ How to Run
 
-Through these projects, I am practicing:
+### 1. Clone the repository
 
-* 🐍 Python Programming
-* 🔹 Variables & Data Types
-* 🔹 Loops and Conditional Logic
-* 🔹 Functions
-* 🔹 Data Structures
-* 🔹 File Handling
-* 🔹 Object-Oriented Programming (OOP)
-* 🔹 Problem Solving
-* 🔹 Git & GitHub Workflow
+```bash
+git clone https://github.com/tabbassamrabia68-code/Calculator_App.git
+```
 
----
+### 2. Open the project folder
 
-# 🚀 Upcoming Projects
+```bash
+cd Calculator_App
+```
 
-More projects are being added regularly:
+### 3. Run the Python file
 
-* 🧮 Calculator App
-* 🔐 Password Generator
-* 👨‍🎓 Student Management System
-* 🏦 Banking System
-* 👨‍💼 Employee Management System
-* 📁 File Management System
-* ✅ To-Do List Application
-* 📞 Contact Book
-* 📊 Data Analysis Projects
-* 🤖 AI Chatbot
-* ☎️ AI Calling Agent
+```bash
+python Calculator.py
+```
 
 ---
 
-# 🛠️ Tools & Technologies
+## 💡 Concepts Practiced
 
-* Python
-* VS Code
-* Git & GitHub
-* Jupyter Notebook
-* Excel
-* Power BI
-* Maple
+Through this project, I practiced:
 
----
-
-# 🌱 Current Learning Goals
-
-I am continuously working on:
-
-* Building real-world Python applications
-* Improving coding practices
-* Exploring Data Analytics and AI Automation
-* Creating projects for my professional portfolio
+* Python functions
+* Variables and data types
+* Arithmetic operators
+* Conditional statements
+* User input handling
+* Error handling
+* Problem-solving skills
 
 ---
 
-# 🔗 Connect With Me
+## 📸 Project Output
 
-### GitHub
+(Add your calculator output screenshot here)
 
+---
+
+## 🚀 Future Improvements
+
+* Add graphical user interface (GUI) using Tkinter
+* Add scientific calculator features
+* Improve user experience
+* Add calculation history
+
+---
+
+## 👩‍💻 Author
+
+**Rabia Tabbassam**
+
+🎓 BS Mathematics Student
+🐍 Python Developer
+📊 Data Analytics & AI Enthusiast
+
+---
+
+## 🔗 Connect With Me
+
+GitHub:
 https://github.com/tabbassamrabia68-code
 
-### LinkedIn
-
+LinkedIn:
 https://www.linkedin.com/in/rabia-tabbassam/
 
 ---
 
-# ⭐ Thank You For Visiting!
+⭐ If you find this project useful, feel free to explore and connect!
 
-Thank you for exploring my Python Projects Portfolio.
-
-I will continue building, learning, and sharing more projects related to **Python Development, Data Analytics, and Artificial Intelligence**. 🚀
